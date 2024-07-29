@@ -2,6 +2,6 @@
 
  ## Person adında sınıf oluşturup öğrenci ve öğretmenler oluşturdum.
 
- ** Fields
- ** Property
+    ** Fields
+    ** Property
  
